@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MokoPod'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MokoPod.'
+  s.summary          = 'This MokoPod for learn create new pod'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'This MokoPod for learn create new pod and updating the repository with him'
 
   s.homepage         = 'https://github.com/Orkusha/MokoPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -30,8 +28,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'MokoPod/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
+  s.swift_version = '5.5.2'
   # s.resource_bundles = {
   #   'MokoPod' => ['MokoPod/Assets/*.png']
   # }

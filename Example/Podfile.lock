@@ -1,0 +1,16 @@
+PODS:
+  - MokoPod (0.1.0)
+
+DEPENDENCIES:
+  - MokoPod (from `../`)
+
+EXTERNAL SOURCES:
+  MokoPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MokoPod: 1983b6dbdbd83d28aaa653fc85382c0eed120d46
+
+PODFILE CHECKSUM: 6e17625272814e92ef006120877e98bbce75c6bc
+
+COCOAPODS: 1.11.2

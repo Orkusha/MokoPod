@@ -1,0 +1,6 @@
+framework module MokoPod {
+  umbrella header "MokoPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

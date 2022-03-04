@@ -1,0 +1,22 @@
+{
+  "name": "MokoPod",
+  "version": "0.1.0",
+  "summary": "A short description of MokoPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Orkusha/MokoPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Orkusha": "orkusha.d@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Orkusha/MokoPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MokoPod/Classes/**/*"
+}
